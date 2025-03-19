@@ -42,3 +42,26 @@ cd calculadora-media
 ```
 
 3️⃣ Abra o arquivo `index.html` no navegador
+
+---
+
+## 🌟 Melhorias Futuras
+
+- [ ] Adicionar opção para limpar os campos rapidamente  
+- [ ] Permitir salvar as notas no **LocalStorage**  
+- [ ] Implementar um modo claro/escuro  
+- [ ] Criar um layout ainda mais responsivo  
+
+Se tiver sugestões, sinta-se à vontade para contribuir! 🚀  
+
+---
+
+## 🤝 Contribuindo
+
+Quer contribuir com melhorias? Siga os passos abaixo:  
+
+1. **Faça um fork** do projeto  
+2. **Clone o repositório** para sua máquina  
+   ```bash
+   git clone https://github.com/Ninja1375/calculadora-media.git
+   ```
