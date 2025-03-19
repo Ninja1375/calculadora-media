@@ -34,3 +34,11 @@ Uma calculadora de média escolar simples e responsiva, com um **design Dark Neo
 1️⃣ **Clone o repositório**  
 ```bash
 git clone https://github.com/Ninja1375/calculadora-media.git
+```
+
+2️⃣ Acesse a pasta
+```bash
+cd calculadora-media
+```
+
+3️⃣ Abra o arquivo `index.html` no navegador
