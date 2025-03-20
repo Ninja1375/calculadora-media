@@ -17,7 +17,7 @@ Uma calculadora de média escolar simples e responsiva, com um **design Dark Neo
 
 ## 🎨 **Preview do Design**
 
-![Preview da Calculadora](https://via.placeholder.com/600x300/000000/0f0?text=Calculadora+Dark+Neon)  
+![calculadora_media_escolar](https://github.com/user-attachments/assets/a8373bdb-f0b8-405c-b315-bb4ea6eba88d)
 
 ---
 
