@@ -69,3 +69,14 @@ Quer contribuir com melhorias? Siga os passos abaixo:
    ```bash
    git checkout -b minha-melhoria
    ```
+4. **Faça as alterações e commit**
+   ```bash
+   git commit -m "Adicionei uma nova funcionalidade"
+   ```
+5. **Envie para o GitHub**
+   ```bash
+   git push origin minha-melhoria
+   ```
+6. **Abra um Pull Request** e descreva sua melhoria
+
+Toda contribuição é bem-vinda! 😃
