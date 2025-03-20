@@ -65,3 +65,7 @@ Quer contribuir com melhorias? Siga os passos abaixo:
    ```bash
    git clone https://github.com/Ninja1375/calculadora-media.git
    ```
+3. **Crie uma branch para sua melhoria**  
+   ```bash
+   git checkout -b minha-melhoria
+   ```
